@@ -36,7 +36,7 @@ margin-top:50px;
 }
 .col-md-4 img{
     margin-top:100px;
-    margin:30px;
+    margin:10px;
 }
 .row{
     margin-left:100px;
@@ -49,4 +49,11 @@ margin-top:50px;
     margin-bottom:30px;
     margin-left:10px;
     font-weight:bold;
+}
+.header{
+    text-align: center;
+}
+.col-md-3 > img{
+    padding:40px;
+    
 }
