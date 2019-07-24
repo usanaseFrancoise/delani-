@@ -1,6 +1,20 @@
+
+body{
+    background-color:#F0FFF0; 
+}
 #log{
-    margin-top:-400px;
+    margin-top:-480px;
     text-align: center;
     color:white;
+    font-style:inherit;
+    font-weight: bold;
     
+}
+#par{
+    text-align: center;
+    margin-bottom: 30px;
+    color:white;
+    font-weight:bold;
+}#logo{
+    margin-top:90px;
 }
