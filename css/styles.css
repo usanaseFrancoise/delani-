@@ -38,8 +38,8 @@ margin-top:-30px;
 }
 .col-md-4 img{
     margin-bottom:-300px;
-    margin:10px;
-    margin-left:40px;
+    margin:160px;
+    margin-left:70px;
 }
 .row{
     margin-left:100px;
@@ -50,15 +50,15 @@ margin-top:-30px;
 .col-md-4 h3{
     text-align:initial;
     font-size:28px;
-    margin-bottom:40px;
-    margin-left:10px;
+   
+  
     font-weight:bold;
 }
 .header{
     text-align: center;
 }
 .col-md-3 > img{
-    padding:40px;
+    padding:30px;
     margin-right:150px;
     text-align: center;
     
@@ -67,12 +67,13 @@ input{
     background-color:transparent;
     font-size: 10px;
     max-width: length 10px;
+    width:50px;
 }
 #one {
     color:grey;
     margin:50px;
     text-align: center;
-    margin-top:-50px;
+    margin-top:10px;
 
 }
 .three{
@@ -87,16 +88,21 @@ input{
 footer{
     background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('/home/fanny/Desktop/Delani/image/3.jpg');
     height: 70vh;
-    width: 105%;
+    width: 97%;
     opacity:0.8;
     background-size: cover;
     background-position: center;
     margin-left: none;
+    
 }
 textarea{
     width:740px;
     margin-left:50px;
     margin-top:-70px;
+}
+.three4{
+    color:white;
+    text-align: center
 }
 .row{
     text-align: center;
@@ -105,5 +111,14 @@ textarea{
 }
 button{
     margin-left:780px;
-    margin-top:40px;
+    margin-top:20px;
+}
+#show1 {
+    display:none;
+}
+#show2 {
+    display:none;
+}
+#show3 {
+    display:none;
 }
