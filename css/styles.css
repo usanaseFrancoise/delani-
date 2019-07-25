@@ -86,7 +86,7 @@ input{
 }
 footer{
     background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('/home/fanny/Desktop/Delani/image/3.jpg');
-    height: 80vh;
+    height: 70vh;
     width: 105%;
     opacity:0.8;
     background-size: cover;
@@ -94,7 +94,9 @@ footer{
     margin-left: none;
 }
 textarea{
-    width:700px;
+    width:740px;
+    margin-left:50px;
+    margin-top:-70px;
 }
 .row{
     text-align: center;
@@ -102,5 +104,6 @@ textarea{
     margin-right: 25%;
 }
 button{
-    margin: right;
+    margin-left:780px;
+    margin-top:40px;
 }
