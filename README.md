@@ -2,14 +2,14 @@
 ## Delani Studio
 ### Description
 - Delani studio is a website that is used to teach the people more about technology field
-<img src="/home/fanny/Desktop/Delani/image/_Delani Studio.jpg">
+<img src="/image/_Delani Studio.jpg">
 
-####Ptrs of my website
+#### Ptrs of my website
 - Services
 - Portfilio
 - Contacts
 - Icons
-### Instruction
+#### Instruction
  - if you need more details on Portifolio  click on the images to see the name of each portfolio
  - if you need to reach on us please be  fare and live the message
  - In short time you will receive the message that confirmed that your message is received
