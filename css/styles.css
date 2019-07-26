@@ -29,7 +29,7 @@ body{
     background-repeat: no-repeat;
     height: 110%;
     transform: scale(1.1);
-    text-align: center;
+    text-align: center; 
 
 }
 #service p{
@@ -192,8 +192,8 @@ button:hover {
 #show1 {
     display:none;
 }
-#show2 {
-    display:none;
+ #show2 {
+    display:none; 
 }
 #show3 {
     display:none;
