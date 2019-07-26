@@ -200,7 +200,8 @@ button:hover {
 }
 .icons{
     margin-top:60px;
-    margin-left:60px;
+    margin-left:100px;
+    transform: scale(1.1)
 }
 .last{
     text-align: center;
