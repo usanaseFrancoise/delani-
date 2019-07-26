@@ -89,14 +89,39 @@ font-weight: inherit;
 .col-md-3 > img{
     padding: 9px;
 }
-#photo{
+#photo1{
    margin-top:-10px;
     transform: scale(1.1);
 }
-#photos{
+#photo2{
+    margin-top:-10px;
+     transform: scale(1.1);
+ }
+ #photo3{
+    margin-top:-10px;
+     transform: scale(1.1);
+ }
+ #photo4{
+    margin-top:-10px;
+     transform: scale(1.1);
+ }
+#photos1{
     margin-top:-10px;
     transform: scale(1.1);
 }
+#photos2{
+    margin-top:-10px;
+    transform: scale(1.1);
+}
+#photos3{
+    margin-top:-10px;
+    transform: scale(1.1);
+}
+#photos4{
+    margin-top:-10px;
+    transform: scale(1.1);
+}
+
 input{
     background-color:transparent;
     font-size: 10px;
@@ -184,4 +209,59 @@ button:hover {
 }
 #im img{
     margin-right:70px;
+}
+.image1 >p,.image2 >p,.image3 >p,.image4 >p,.image5 >p,.image6 >p,.image7 >p,.image8 >p{
+    position: absolute;
+    transform: translate(-50%);
+    color:white;
+    width: 100%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    bottom:50%;
+    padding: 0;
+    margin-left:160px;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+.image1,.image2,.image3,.image4,.image5,.image6,.image7,.image8{
+    top:60%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    font-size: 18px;
+    text-align: center;
+    width: 90%;
+    position:absolute;
+}
+#first{
+    position: relative;
+    overflow: hidden;
+}
+#second{
+    position: relative;
+    overflow: hidden;
+
+}
+#third{
+    position: relative;
+    overflow: hidden;
+
+}
+#forth{
+    position: relative;
+    overflow: hidden;
+}
+#fifth{
+    position: relative;
+    overflow: hidden;
+}
+#sixth{
+    position: relative;
+    overflow: hidden;
+}
+#seventh{
+    position: relative;
+    overflow: hidden;
+}
+#eighth{
+    position: relative;
+    overflow: hidden;
 }
