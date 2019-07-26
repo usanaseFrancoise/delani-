@@ -155,7 +155,7 @@ input{
     background-color: transparent;
 }
 footer{
-    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('/home/fanny/Desktop/Delani/image/3.jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("../image/3.jpg");
     height: 70vh;
     width: 120%;
     opacity:0.8;
