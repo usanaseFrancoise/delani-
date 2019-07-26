@@ -13,4 +13,8 @@ $(".click3").click(function() {
     $("#show3").toggle ();
     $("#toggle3").toggle ();        
 });
+
+$(".once").click(function(){
+    alert("thank you for sending the message");
+});
 });
