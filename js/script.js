@@ -26,17 +26,17 @@ $('#photos1').hover(function(){
         $('.image1').fadeIn();
 
 }, function(){
-$(this).stop().animate({
-        opacity: 3},200);
-        $('.image1').fadeOut();
- });
- $('.image2').hide();
-$('#photos2').animate({
-    opacity:1
-});
-$('#photos2').hover(function(){
-    $(this).stop().animate({opacity:0.3},200);
-        $('.image2').fadeIn();
+    $(this).stop().animate({
+            opacity: 3},200);
+            $('.image1').fadeOut();
+     });
+     $('.image2').hide();
+    $('#photos2').animate({
+        opacity:1
+    });
+    $('#photos2').hover(function(){
+        $(this).stop().animate({opacity:0.3},200);
+            $('.image2').fadeIn();
 
 }, function(){
 $(this).stop().animate({
