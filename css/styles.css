@@ -158,7 +158,7 @@ footer{
     background-image: url("../image/3.jpg");
     height: 70vh;
     width: 120%;
-    opacity:0.8;
+    opacity:0.9;
     background-size: cover;
     background-position: center;
     margin-left: none;
@@ -201,7 +201,7 @@ button:hover {
 .icons{
     margin-top:60px;
     margin-left:100px;
-    transform: scale(1.1)
+    transform: scale(1)
 }
 .last{
     text-align: center;
